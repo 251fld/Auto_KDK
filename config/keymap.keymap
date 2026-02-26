@@ -7,23 +7,23 @@
 
         layer_0 {
             bindings = <
-&none  &none  &none  &none  &none  &none  &none
-&none  &none  &none  &none  &none  &none
-&none  &none  &none  &none  &none  &none
-&none  &none  &none  &none  &none  &none  &none
-&none  &none  &none  &none  &none  &none
-                            &none  &none  &none
+&kp ESC    &kp N1     &kp N2    &kp N3     &kp N4        &kp N5       &kp BACKSPACE
+&kp TAB    &kp Q      &kp W     &kp E      &kp R         &kp T
+&kp CAPS   &kp A      &kp S     &kp D      &kp F         &kp G
+&kp LSHFT  &kp SPACE  &kp Z     &kp X      &kp C         &kp V        &kp B
+&kp LCTRL  &kp LALT   &kp LGUI  &kp SPACE  &kp UP_ARROW  &lt 1 SPACE
+                                           &kp LEFT      &kp DOWN     &kp RIGHT
             >;
         };
 
         layer_1 {
             bindings = <
-&none  &none  &none  &none  &none  &none  &none
-&none  &none  &none  &none  &none  &none
-&none  &none  &none  &none  &none  &none
-&none  &none  &none  &none  &none  &none  &none
-&none  &none  &none  &none  &none  &none
-                            &none  &none  &none
+&none        &none  &none  &none  &none  &none  &none
+&none        &none  &none  &none  &none  &none
+&none        &none  &none  &none  &none  &none
+&none        &none  &none  &none  &none  &none  &none
+&bootloader  &none  &none  &none  &none  &none
+                                  &none  &none  &none
             >;
         };
 
