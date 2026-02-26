@@ -7,10 +7,12 @@
 
         layer_0 {
             bindings = <
-&kp ESC    &kp Q     &kp W     &kp E      &kp R      &kp T      &none
-&kp TAB    &kp A     &kp S     &kp D      &kp F      &kp G
-&kp LSHFT  &kp Z     &kp X     &kp C      &kp V      &kp B
-&kp LCTRL  &kp LALT  &kp LGUI  &kp SPACE  &kp SPACE  &kp SPACE
+&none  &none  &none  &none  &none  &none  &none
+&none  &none  &none  &none  &none  &none
+&none  &none  &none  &none  &none  &none
+&none  &none  &none  &none  &none  &none  &none
+&none  &none  &none  &none  &none  &none
+                            &none  &none  &none
             >;
         };
 
