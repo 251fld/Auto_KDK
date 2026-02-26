@@ -207,7 +207,7 @@
                     "moduleType": "switch",
                     "variant": "",
                     "keycapOption": {
-                        "rowIndex": "R0",
+                        "rowIndex": "R2",
                         "isHoming": false
                     }
                 },
@@ -292,7 +292,7 @@
                     "enabled": true,
                     "moduleType": "switch",
                     "keycapOption": {
-                        "rowIndex": "R0",
+                        "rowIndex": "R2",
                         "isHoming": false
                     },
                     "variant": ""
