@@ -1,7 +1,0 @@
-
-if SHIELD_TEST04_1
-
-config ZMK_KEYBOARD_NAME
-    default "test04_1"
-
-endif
