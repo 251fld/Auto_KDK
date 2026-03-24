@@ -1,0 +1,7 @@
+
+if SHIELD_TEST18
+
+config ZMK_KEYBOARD_NAME
+    default "test18"
+
+endif
