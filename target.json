@@ -1,0 +1,11 @@
+{
+    "include": [
+        {
+            "keyboard": "43wired",
+            "keymap": "vial",
+            "target": "uf2",
+            "flags": "EXTRAFLAGS=\"\"",
+            "name": "43wired_vial"
+        }
+    ]
+}
