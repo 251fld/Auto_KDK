@@ -1,0 +1,7 @@
+
+if SHIELD_43WIRELESS1
+
+config ZMK_KEYBOARD_NAME
+    default "43wireless1"
+
+endif

@@ -1,0 +1,3 @@
+
+config SHIELD_43WIRELESS1
+    def_bool $(shields_list_contains,43wireless1)

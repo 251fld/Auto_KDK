@@ -1,0 +1,11 @@
+
+file_format: "1"
+id: 43wireless1
+name: 43wireless1
+type: shield
+features:
+  - keys
+  - studio
+outputs:
+  - usb
+  - ble
